@@ -14,10 +14,10 @@ export const initialProfile = {
     "UI/UX Design Enthusiast"
   ],
   stats: [
-    { value: "3+", label: "Years Experience" },
-    { value: "10+", label: "Projects Completed" },
+    { value: "3", label: "Years Experience" },
+    { value: "5", label: "Projects Completed" },
     { value: "99.9%", label: "Uptime Guaranteed" },
-    { value: "15k+", label: "Code Commits" }
+   {/* { value: "15k+", label: "Code Commits" }*/}
   ],
   socials: {
     github: "https://github.com/mathiasbirhanu3-droid",
